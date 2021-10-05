@@ -17,6 +17,7 @@ An Introduction to data analytics. A data analyst looks at large amounts of info
 - Pandas
 - Matplotlib
 - API Interactions
+
 **Databases**
 - PostgreSQL
 - MongoDB
