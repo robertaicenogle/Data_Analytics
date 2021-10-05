@@ -11,7 +11,7 @@ An Introduction to data analytics
 - Modeling
 - Forecasting
 
-Python Programming
+**Python Programming**
 - Python 3
 - NumPy
 - Pandas
@@ -38,4 +38,4 @@ Python Programming
 - Machine Learning
 
 
-## 
+## Let's Begin
